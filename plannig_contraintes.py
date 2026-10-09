@@ -24,7 +24,7 @@ VEHICULES = {
 }
 
 avance_max = 30
-Q = 1      
+Q = 2      
 file_max = 2   
 
 attentes, dechargements = [], []

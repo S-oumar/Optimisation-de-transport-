@@ -1,0 +1,128 @@
+{
+  "quais": 2,
+  "file_max": 2,
+  "statut": "OPTIMAL",
+  "attente_totale": 5,
+  "planning": [
+    {
+      "vehicule": "V1",
+      "T": "08:00",
+      "depart": "06:45",
+      "arrivee": "07:30",
+      "dechargement": "07:30",
+      "attente": 0
+    },
+    {
+      "vehicule": "V2",
+      "T": "08:08",
+      "depart": "07:03",
+      "arrivee": "07:38",
+      "dechargement": "07:38",
+      "attente": 0
+    },
+    {
+      "vehicule": "V3",
+      "T": "08:15",
+      "depart": "07:00",
+      "arrivee": "07:50",
+      "dechargement": "07:50",
+      "attente": 0
+    },
+    {
+      "vehicule": "V4",
+      "T": "08:23",
+      "depart": "07:28",
+      "arrivee": "07:58",
+      "dechargement": "07:58",
+      "attente": 0
+    },
+    {
+      "vehicule": "V5",
+      "T": "08:30",
+      "depart": "07:30",
+      "arrivee": "08:10",
+      "dechargement": "08:10",
+      "attente": 0
+    },
+    {
+      "vehicule": "V6",
+      "T": "08:38",
+      "depart": "07:53",
+      "arrivee": "08:18",
+      "dechargement": "08:18",
+      "attente": 0
+    },
+    {
+      "vehicule": "V7",
+      "T": "08:45",
+      "depart": "07:35",
+      "arrivee": "08:30",
+      "dechargement": "08:30",
+      "attente": 0
+    },
+    {
+      "vehicule": "V8",
+      "T": "08:53",
+      "depart": "07:56",
+      "arrivee": "08:38",
+      "dechargement": "08:38",
+      "attente": 0
+    },
+    {
+      "vehicule": "V9",
+      "T": "09:00",
+      "depart": "08:17",
+      "arrivee": "08:50",
+      "dechargement": "08:50",
+      "attente": 0
+    },
+    {
+      "vehicule": "V10",
+      "T": "09:08",
+      "depart": "08:10",
+      "arrivee": "08:58",
+      "dechargement": "08:58",
+      "attente": 0
+    },
+    {
+      "vehicule": "V11",
+      "T": "09:15",
+      "depart": "08:33",
+      "arrivee": "09:10",
+      "dechargement": "09:10",
+      "attente": 0
+    },
+    {
+      "vehicule": "V12",
+      "T": "09:23",
+      "depart": "08:18",
+      "arrivee": "09:18",
+      "dechargement": "09:18",
+      "attente": 0
+    },
+    {
+      "vehicule": "V13",
+      "T": "09:30",
+      "depart": "09:02",
+      "arrivee": "09:30",
+      "dechargement": "09:30",
+      "attente": 0
+    },
+    {
+      "vehicule": "V14",
+      "T": "09:38",
+      "depart": "08:46",
+      "arrivee": "09:38",
+      "dechargement": "09:38",
+      "attente": 0
+    },
+    {
+      "vehicule": "V15",
+      "T": "09:45",
+      "depart": "09:02",
+      "arrivee": "09:45",
+      "dechargement": "09:50",
+      "attente": 5
+    }
+  ]
+}
