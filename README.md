@@ -60,10 +60,10 @@ pip install ortools
 python planning.py
 
 # Parties 2 à 4 : avec contraintes de quais et de file (écrit resultat_Q{Q}.json)
-python plannig_contraintes.py
+python planning_contraintes.py
 ```
 
-`plannig_contraintes.py` affiche le statut du solveur, l'attente totale et les horaires de départ, puis écrit le planning dans `resultat_Q{Q}.json` (ex. `resultat_Q3.json`).
+`planning_contraintes.py` affiche le statut du solveur, l'attente totale et les horaires de départ, puis écrit le planning dans `resultat_Q{Q}.json` (ex. `resultat_Q3.json`).
 
 Pour tester un autre scénario, modifiez directement `VEHICULES`, `avance_max`, `Q` ou `file_max` dans le script.
 
@@ -162,7 +162,7 @@ Avec 3 quais, la solution est **optimale avec 0 minute d'attente** et identique 
 ```
 .
 ├── planning.py              # Partie 1 : modèle sans contraintes de capacité
-├── plannig_contraintes.py   # Parties 2 à 4 : modèle avec quais (Q) et file d'attente
+├── planning_contraintes.py  # Parties 2 à 4 : modèle avec quais (Q) et file d'attente
 ├── resultat.json            # Partie 1 : sans contraintes de capacité
 ├── resultat_Q1.json         # Partie 2 : Q = 1 quai (infaisable)
 ├── resultat_Q2.json         # Partie 3 : Q = 2 quais
